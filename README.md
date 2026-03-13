@@ -20,6 +20,6 @@ The following alias was configured to generate the visual history below:
 ## 1. Visual Commit History (`git visual`)
 Below is the output of the custom `git visual` command, showing the relationship between the master branch, the recovered branch, and the v1.0 tag:
 
-![Git Visual](images/git-visual.PNG)
+![Git Visual](images/git-visual.png)
 
 ## Mentor: Berat Ujkani
